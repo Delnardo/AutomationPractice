@@ -1,0 +1,8 @@
+{
+  "appium:appPackage": "com.google.android.apps.nexuslauncher",
+  "appium:appActivity": "com.google.android.apps.nexuslauncher.NexusLauncherActivity",
+  "platformName": "Android",
+  "appium:automationName": "Uiautomator2",
+  "appium:app": "C:\\Users\\ajruiz\\AndroidStudioProjects\\Android-NativeDemoApp-0.4.0.apk",
+  "appium:deviceName": "MyDevice"
+}
